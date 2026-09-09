@@ -13,3 +13,8 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Course datasets — kept local, downloaded from Brightspace (Content > Data)
+data/**
+!data/**/
+!data/**/.gitkeep
